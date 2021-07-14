@@ -20,4 +20,6 @@ _Protypal Inheritance_
 
 # Topic 5
 
+_Object.Create_
+
 # Topic 6
