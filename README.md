@@ -16,6 +16,8 @@ _Protoypes in Javascript_
 
 # Topic 4
 
+_Protypal Inheritance_
+
 # Topic 5
 
 # Topic 6
