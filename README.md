@@ -23,3 +23,5 @@ _Protypal Inheritance_
 _Object.Create_
 
 # Topic 6
+
+_ES6 Classes_
