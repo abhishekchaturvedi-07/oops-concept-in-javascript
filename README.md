@@ -25,3 +25,7 @@ _Object.Create_
 # Topic 6
 
 _ES6 Classes_
+
+# Topic 7
+
+_Sub Classes_
